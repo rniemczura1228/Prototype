@@ -1,2 +1,2 @@
 # Prototype
-# Author Raymond Niemczura
+# Author Raymond T. Niemczura
