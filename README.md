@@ -1,7 +1,13 @@
 # Prototype
 # Author Raymond T. Niemczura
-# Date 12/19/2021
+# Date 2/1/2022
 # 
+# Mongo DB Module Additions
+# 1) pymongo_create_insert_emp.py - Creates, and populates an employee collection in employee_db.
+# 2) pymongo_query_emp.py - display the entire employee collection, and then displays a new collection by selecting a field value.
+# 3) pymongo_change_emp.py - displays the employee collection before and after changing one value.
+# 4) pymongo_delete_emp.py - displays the employee collection before and after deleting on element.
+
 # Two distinct paths were used to create, modify, and delete entries from a sqlite databases
 # 1) Object oriented modules
 # 2) Rest API using Flask modules
