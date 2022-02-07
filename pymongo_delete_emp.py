@@ -4,6 +4,7 @@ import pymongo
 from pymongo_create_insert_emp import get_database
 dbname = get_database()
 
+# Additional comment line
 # Create a new collection
 collection_name = dbname["employee"]
 
