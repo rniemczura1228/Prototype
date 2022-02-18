@@ -9,6 +9,6 @@ def area(radius):
     return result  
 
 # Call addition function
-addition(400, 300)
+addition(450, 350)
 # Call area function
 print("Area of the circle is",area(4))
