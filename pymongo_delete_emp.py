@@ -18,6 +18,7 @@ myquery = {"gender": "Male"}
 collection_name.delete_one(myquery)
 
 item_details = collection_name.find()
+print ('Hi')
 print (' After Delete - _id - first - last - gender - location - email - add date - change date') 
 for item in item_details:
     print(item['_id'], item['first'], item['last'], item['gender'], item['location'], item['email'], item['add_date'], item['change_date'])
